@@ -18,7 +18,7 @@ const { Table } = require('console-table-printer');
 const program = new Command();
 console.log(figlet.textSync("Dir Manager"));
 program
-    .version("1.2.0")
+    .version("1.3.0")
     .description("An example CLI for managing a directory")
     .option("-l, --ls  [value]", "List directory contents")
     .option("-m, --mkdir <value>", "Create a directory")
