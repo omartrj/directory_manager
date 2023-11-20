@@ -20,18 +20,18 @@ dirmanager --help
 
 - **List Directory Contents:**  
 ```bash
-dirmanager -l \[value\]
-dirmanager --ls \[value\]
+dirmanager -l [value]
+dirmanager --ls [value]
 ```
 
 - **Create Directory:**  
 ```bash
-dirmanager -m \<value\>
-dirmanager --mkdir \<value\>
+dirmanager -m <value>
+dirmanager --mkdir <value>
 ```
 
 - **Create File:**  
 ```bash
-dirmanager -t \<value\>
-dirmanager --touch \<value\>
+dirmanager -t <value>
+dirmanager --touch <value>
 ```
